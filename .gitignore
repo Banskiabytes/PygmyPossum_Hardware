@@ -1,0 +1,15 @@
+###############################
+# KICAD
+###############################
+
+# Netlists
+*.net
+# BOM plugin output
+*.csv.tmp
+*.csv
+*.xml
+# Gerbers
+*.gbr
+# Footprint info cache
+fp-info-cache 
+
