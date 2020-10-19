@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP HC-SR501
+D PIR sensor Generic connector, single row, 01x03, script generated
+K connector PIR
+F ~
+$ENDCMP
+#
 $CMP IP4220CZ6
 D Dual USB 2.0 integrated ESD protection
 K ESD
@@ -7,9 +13,9 @@ F https://datasheet.lcsc.com/szlcsc/Nexperia-IP4220CZ6-125_C282546.pdf
 $ENDCMP
 #
 $CMP PS2501-1
-D DC Optocoupler, Vce 80V, CTR 50-100%, SOP4
+D DC Optocoupler, Vce 80V, SOP4
 K NPN DC Optocoupler
-F https://toshiba.semicon-storage.com/info/docget.jsp?did=12884&prodName=TLP291
+F https://datasheet.lcsc.com/szlcsc/RENESAS-PS2501L-1-F3-A_C51825.pdf
 $ENDCMP
 #
 #End Doc Library

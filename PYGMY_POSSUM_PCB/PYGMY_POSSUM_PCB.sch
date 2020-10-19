@@ -603,7 +603,7 @@ F 3 "" H 2000 6600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text GLabel 4000 3350 2    50   Input ~ 0
-HC-SR501_VIN
+HC-SR501_VCC
 Wire Wire Line
 	4000 3350 3950 3350
 Wire Wire Line
@@ -734,4 +734,6 @@ Text GLabel 10600 1300 2    50   Input ~ 0
 PIC_Tx
 Text GLabel 10600 1400 2    50   Input ~ 0
 PIC_Rx
+Text GLabel 4000 1550 2    50   Input ~ 0
+HC-SR501_VCC
 $EndSCHEMATC

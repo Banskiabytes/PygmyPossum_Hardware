@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP HC-SR501
+D PIR sensor Generic connector, single row, 01x03, script generated
+K connector PIR
+F ~
+$ENDCMP
+#
 $CMP IP4220CZ6
 D Dual USB 2.0 integrated ESD protection
 K ESD

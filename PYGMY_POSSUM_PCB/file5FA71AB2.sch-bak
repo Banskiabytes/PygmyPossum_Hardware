@@ -61,7 +61,7 @@ F 3 "" H 4150 4250 50  0001 C CNN
 	1    4150 4250
 	1    0    0    -1  
 $EndComp
-Text Notes 3550 2800 0    157  ~ 0
+Text Notes 1100 1400 0    157  ~ 0
 PIR Input
 $Comp
 L BANKSIA_BYTES_SYMBOLS:PS2501-1 U?
